@@ -7,7 +7,7 @@
   <h1 align="center">Hi there, I'm Ahmad Darwich! 👋</h1>
   
   <h3 align="center">
-    Software Engineering Student @ BTH  🚀
+    Software Engineering 🚀
   </h3>
 
   <p align="center">
