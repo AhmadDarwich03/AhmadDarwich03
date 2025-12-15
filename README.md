@@ -4,7 +4,7 @@
 
   <h1 align="center">Hi there, I'm Ahmad Darwich! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-  <h3 align="center">Software Engineering Student @ BTH (Class of '26) 🚀</h3>
+  <h3 align="center">Software Engineering Student @ BTH 🚀</h3>
 
   <p align="center">
     Backend-focused developer with a keen interest in problem-solving and technology.
