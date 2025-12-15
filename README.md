@@ -7,12 +7,11 @@
   <h1 align="center">Hi there, I'm Ahmad Darwich! 👋</h1>
   
   <h3 align="center">
-    Software Engineering Student @ BTH (Class of '26) 🚀
+    Software Engineering Student @ BTH  🚀
   </h3>
 
   <p align="center">
     Backend-focused developer based in <b>Karlskrona, Sweden</b> 🇸🇪.<br/>
-    Passionate about Clean Architecture, Algorithms, and Problem Solving.
   </p>
 
   <a href="https://github.com/AhmadDarwich03">
