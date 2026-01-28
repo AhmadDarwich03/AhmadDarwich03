@@ -32,7 +32,7 @@
 
 - 🎓 I’m a final-year **Software Engineering** student at **Blekinge Institute of Technology (BTH)**.
 - 💻 Specialized in **Backend Systems** (C++, C#, Python) and **Database Design**.
-- 🌍 Fluent in **English, Swedish, and Arabic**.
+- 🌍 Fluent in **English and Swedish** and **Arabic** is my native language.
 - ⚡ **Soft Skills:** Leadership, Critical Thinking, and Teamwork.
 
 ---
